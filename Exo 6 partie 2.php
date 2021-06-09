@@ -9,6 +9,7 @@
 <body>
     <h1>Exo 6 : Les conditions</h1>
     <h4>Traduire ce code avec des if et des else : </h4>
+    <p>
     <?php
     $age = 17;
     if ($age >= 18) {
@@ -17,5 +18,6 @@
         echo"Tu es mineur";
     }
     ?>
+    </p>
 </body>
 </html>
